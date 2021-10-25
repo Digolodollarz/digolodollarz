@@ -1,6 +1,6 @@
 ## Hola, I'm Edmore M Gonese
 
-- 🔭 I’m currently working with Flutter and Android.
+- 🔭 I’m currently working with Flutter, Android and iOS.
 - 🌱 I’m currently learning more about GraphQL and Google Cloud.
 - 👯 I’m looking to collaborate on solutions targeting Zimbabwe.
 - 🤔 I’m looking for help with Firebase Cloud Functions.
